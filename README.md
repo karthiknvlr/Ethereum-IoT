@@ -7,8 +7,11 @@ First step is installation of Go-Ethereum client in your Local Machine.
 Installation from PPA
 
 $sudo apt-get install software-properties-common
+
 $sudo add-apt-repository -y ppa:ethereum/ethereum
+
 $sudo apt-get update
+
 $sudo apt-get install ethereum
 
 This command will install Ethereum client and other dependencies which are required to run the ethereum network in your local machine.
